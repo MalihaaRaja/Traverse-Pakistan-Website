@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>G1 - Treverse Pakistan</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/prettyPhoto.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="images/ico/apple-touch-icon-57-precomposed.png">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="//blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+    <link rel="stylesheet" href="css/bootstrap-image-gallery.min.css">
+    <link rel="stylesheet" href="css/modifications.css">
+    <link href="css/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+<!--header-->
+<header class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html"><img src="images/logo.png" alt="logo"></a>
+        </div>
+        <div class="collapse navbar-collapse" id="topmenu">
+            <ul class="nav navbar-nav navbar-right">
+                <li><a href="index.html">Home</a></li>
+                 <li><a href="blog.html">Events</a></li>
+                <li><a href="blog.html">Blogs</a></li>
+                <li><a href="blog.html">About Us</a></li>
+                <li><a href="contact-us.html">Contact</a></li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Places <i class="icon-angle-down"></i></a>
+                        <ul class="dropdown-menu">
+
+
+                                    <li class="dropdown">
+                                <a href="coastalareas.html"  >Coastal Areas  <i ></i></a>
+                                <ul class="dropdown-menu">
+                                </ul>
+                                    <div class="collapse in">
+                                            <ul>
+
+                                                <li><a href="gawadar.html"> Gawadar</a></li>
+                                                <li><a href="jiwani.html"> Jiwani </a></li>
+                                                 <li><a href="kundimallir.html"> Kund Mallir</a></li>
+                                                <li><a href="makran.html"> Makran Cooastal Highway </a></li>
+                                                 <li><a href="ormara.html"> Ormara</a></li>
+                                               
+                                            </ul>
+                                        </div>
+
+
+                                   
+                                     <li class="dropdown">
+                                <a href="lakes.html"  >Lakes  <i ></i></a>
+                                <ul class="dropdown-menu">
+                                </ul>
+                                    <div class="collapse in">
+                                            <ul>
+
+                                                <li><a href="snow_lake.html"> Snow Lake</a></li>
+                                                <li><a href="rush_lake.html"> Rush Lake </a></li>
+                                                 <li><a href="ratigali_lake.html"> Rati Gali lake</a></li>
+                                               
+                                            </ul>
+                                        </div>
+
+                                     <li class="dropdown">
+                                <a href="mountains.html"  >Mountains  <i ></i></a>
+                                <ul class="dropdown-menu">
+                                </ul>
+                                    <div class="collapse in">
+                                            <ul>
+
+                                                <li><a href="k2.html"> K2</a></li>
+                                                <li><a href="nangaparbat.html"> Nanga Parbat </a></li>
+                                                 
+                                            </ul>
+                                        </div>
+
+                                     <li class="dropdown">
+                                <a href="deserts.html"  >Deserts  <i ></i></a>
+                                <ul class="dropdown-menu">
+                                </ul>
+                                    <div class="collapse in">
+                                            <ul>
+
+                                                <li><a href="indusvalleydesert.html"> Indus Valley Desert</a></li>
+                                                <li><a href="thaldesert.html"> Thal Desert </a></li>
+                                                 <li><a href="thardesert.html"> Thar Desert</a></li>
+                                                
+                                            </ul>
+                                        </div>
+ <li class="dropdown">
+                                <a href="valleys.html"  >Valleys  <i ></i></a>
+                                <ul class="dropdown-menu">
+                                </ul>
+                                    <div class="collapse in">
+                                            <ul>
+
+                                                <li><a href="neelumvalley.html"> Neelum Valley</a></li>
+                                                <li><a href="hunzavalley.html"> Hunza Valley </a></li>
+                                              
+                                            </ul>
+                                        </div>
+                                        <li><a href="deosaiplains.html"> Deosai Plains</a></li>
+               
+            </ul>
+        </div>
+    </div>
+</header>
+<!--/header-->
+<div class="jumbotron">
+    <img src="images/k2/img01.jpg"/>
+</div>
+<div id="pagecontent">
+    <ul class="nav nav-tabs" id="tabs" style="padding-left: 19em;" >
+        <li><a href="#needtoknow" data-toggle="tab"> You Need To Know </a></li>
+        <li><a href="#gallery" data-toggle="tab"> Photo Gallery</a></li>
+        <li><a href="#gettingthere" data-toggle="tab"> How to get there</a></li>
+        <li><a href="#blogs" data-toggle="tab"> Blogs/Experiences </a></li>
+    </ul>
+    <div class="tab-content">
+        <div id="needtoknow" class="tab-pane active">
+            <p> K2, also known as Chhogori/Qogir, Ketu/Kechu, and Mount Godwin-Austen (Urdu:شاہ گوری), is the second-highest mountain on Earth after Mount Everest. It is located on the border[2] between Baltistan, in the Gilgit–Baltistan region of northern Pakistan, and the Taxkorgan Tajik Autonomous County of Xinjiang, China.[3] With a peak elevation of 8,611 m (28,251 feet), K2 is the highest point of the Karakoram Range and the highest point in Pakistan.
+                K2 is known as the Savage Mountain due to the extreme difficulty of ascent and the second-highest fatality rate among the eight thousanders. One in every four people who have attempted the summit have died trying.[4] It is more difficult and hazardous to reach the peak of K2 from the Chinese side; thus, it is usually climbed from the Pakistani side. Unlike Annapurna, the mountain with the highest fatality-to-summit rate (246 summits, 55 deaths),[5] K2 has never been climbed in winter
+                <a href="http://en.wikipedia.org/wiki/K2" style="text-decoration: underline;">Read more</a>
+            </p>
+        </div>
+        <div id="gallery" class="tab-pane">
+            <p>Gallery </p>
+            <article id="home_featured2">
+                <ul>
+                    <li style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img02.jpg" data-gal="prettyPhoto[featured]" title="First Featured Title"><img src="images/k2/thumbs/img02.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                    <li style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img03.jpg" data-gal="prettyPhoto[featured]" title="Second Featured Title"><img src="images/k2/thumbs/img03.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li >
+                    <li class="last" style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img04.jpg" data-gal="prettyPhoto[featured]" title="Third Featured Title"><img src="images/k2/thumbs/img04.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                    <li class="last" style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img04.jpg" data-gal="prettyPhoto[featured]" title="Third Featured Title"><img src="images/k2/thumbs/img04.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                    <li style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img02.jpg" data-gal="prettyPhoto[featured]" title="First Featured Title"><img src="images/k2/thumbs/img02.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                    <li style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img03.jpg" data-gal="prettyPhoto[featured]" title="Second Featured Title"><img src="images/k2/thumbs/img03.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li >
+                    <li class="last" style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img04.jpg" data-gal="prettyPhoto[featured]" title="Third Featured Title"><img src="images/k2/thumbs/img04.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                    <li class="last" style="padding: 0px; margin: 0px; border: none;">
+                        <div class="imgholder" style="padding: 0px; margin: 0px; border: none; width: 100%;"><a href="images/k2/img04.jpg" data-gal="prettyPhoto[featured]" title="Third Featured Title"><img src="images/k2/thumbs/img04.jpg" width="275" height="145" alt="" style="padding: 0px; margin: 0px; border: none; margin: 0px; width: 100%;"/></a></div>
+
+                    </li>
+                </ul>
+            </article>
+        </div>
+        <div id="gettingthere" class="tab-pane">
+            <p>How to get there</p>
+        </div>
+        <div id="blogs" class="tab-pane">
+            <p>Blogs</p>
+        </div>
+    </div>
+</div>
+<footer id="footer" class="midnight-blue">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                &copy; 2014. Traverse Pakistan: A project of <a target="_blank" href="http://shapebootstrap.net/" title="www.bravity.inc">Bravity Inc.</a> All Rights Reserved.
+            </div>
+            <div class="col-sm-6">
+                <ul class="pull-right">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Faq</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a id="gototop" class="gototop" href="#"><i class="icon-chevron-up"></i></a></li><!--#gototop-->
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer><!--/#footer-->
+
+<!-- Scripts -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
+<script src="js/bootstrap-image-gallery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/elegant-press.js"></script>
+<script type="text/javascript">
+    $(function() {
+        $('#tabs a:first').tab('show');
+    } );
+</script>
+</body>
+</html>
